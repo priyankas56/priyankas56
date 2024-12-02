@@ -1,7 +1,8 @@
+
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Priyanka S</h1>
 <h3 align="center">A passionate Java full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://in.images.search.yahoo.com/search/images;_ylt=Awr1QLm5yk1nLsMnY6O9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDcDpzLHY6aSxtOnNiLXRvcARncHJpZAM2RkxkNGpuNlFpT2VmREtaR2hwQ21BBG5fcnNsdAMwBG5fc3VnZwMxMARvcmlnaW4DaW4uaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzM2BHF1ZXJ5A3VuaXF1ZSUyMGFuaW1hdGVkJTIwY29kaW5nJTIwaW1nJTIwZm9yJTIwZ2lybHMEdF9zdG1wAzE3MzMxNTE0MjM-?p=unique+animated+coding+img+for+girls&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210IN826G0#id=21&iurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Finspiring-young-girl-coding-like-pro_893571-12265.jpg&action=click">
+<img align="right" alt="Coding" width="400" src="https://image.lexica.art/md2/38d323ce-e7d2-4b02-8387-36e54636421c">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankas56&label=Profile%20views&color=0e75b6&style=flat" alt="priyankas56" /> </p>
